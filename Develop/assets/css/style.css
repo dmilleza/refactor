@@ -53,7 +53,7 @@ a:hover{
 
 /* while cursor is clicking on links, text color changes */
 a:active {
-color: black;
+    color: black;
 }
 
 p {
